@@ -50,6 +50,9 @@ Create an API endpoint that fetches all orders along with their associated items
      - Change the order status to `SHIPPED`
      - Update button color to yellow
 
+Here's how it should look like on the frontend:
+![alt text](image-1.png)
+
 ## 🍀 Good Luck!
 
 Feel free to adjust any parts of this challenge as needed. We're excited to see your solution!
