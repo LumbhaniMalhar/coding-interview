@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <p>
-        Hi Yashi, Welcome to the Full Stack role Interview!
+        Hi Tushar, Welcome to the Full Stack role Interview!
       </p>
     </div>
   );
